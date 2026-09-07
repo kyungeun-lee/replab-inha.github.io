@@ -18,7 +18,7 @@ Email: kyungeun.lee@inha.ac.kr
 ---
 
 ## Undergraduate Students
-김동환, 김예인, 김호섭, 박경현, 정영운, 정준우
+김동환, 김예인, 김호섭, 박경현, 임지안, 정영운, 정준우
 
 ---
 
